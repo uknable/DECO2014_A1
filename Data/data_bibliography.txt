@@ -4,72 +4,75 @@ Name - link
 
 1) buseslate1 - https://www.facebook.com/TransportForNSW/
 	misinformation - buses cancelled without notice
-	look at timetable/wait for bus
+	x look at timetable/wait for bus
 
 2) notenoughbusesinmorning - https://www.facebook.com/pg/NSWPublicTransport/posts/?ref=page_internal
 	not enough buses, buses to full to stop
-	hail driver to stop
+	x hail driver to stop
 
 3) norealtimedata - https://www.facebook.com/pg/NSWPublicTransport/posts/?ref=pa ge_internal
 	lack of information - real time bus data, gps
-	wait for bus/track bus with tripview
+	x wait for bus/track bus with tripview
 
 4) buseslateandfull - https://www.facebook.com/pg/NSWPublicTransport/posts/?ref=page_internal
 	not enough buses, buses to full to stop
-	hail driver to stop
+	x hail driver to stop
 
 5) noopalmachines - https://www.facebook.com/pg/NSWPublicTransport/posts/?ref=page_internal
 	opal machine - not present at major bus stop
-	charge opal card at opal machine
+	x charge opal card at opal machine
 
 6) wrongtimetable - https://www.facebook.com/pg/NSWPublicTransport/posts/?ref=page_internal
 	misinformation - wrong bus timetables on opal app
-	check opal trip planner
+	x check opal trip planner
 
 7) notinformingchanges - https://twitter.com/search?f=tweets&vertical=default&q=%40busesinfo&src=typd
 	lack of information - not informing customers of change in route
-	go to bus stop
+	x go to bus stop
 
 8) driveswap1 - https://twitter.com/search?f=tweets&vertical=default&q=%40busesinfo&src=typd
 	driver late for bus swap
-	enjoy the ride
+	x enjoy the ride
 
 9) buseslate2 - https://twitter.com/search?f=tweets&vertical=default&q=%40busesinfo&src=typd
 	misinformation - buses not showing up despite tripview information
-	wait for bus
+	x wait for bus
 
 10) overallbadbuses - https://twitter.com/search?f=tweets&vertical=default&q=%40busesinfo&src=typd
 	buses late and overcrowded, no AC
-	enjoy the ride, wait for bus
+	x enjoy the ride, wait for bus
 
 11) ghostbuses1 - https://twitter.com/search?f=tweets&vertical=default&q=%40busesinfo&src=typd
 	bus not showing despite app information
-	check app for bus times, wait for bus
+	x check app for bus times, wait for bus
 
 12) buseslate3 - https://twitter.com/search?f=tweets&vertical=default&q=%40busesinfo&src=typd
 	buses late
-	wait for bus
+	x wait for bus
 
 13) busettiquite - https://twitter.com/search?f=tweets&vertical=default&q=%40busesinfo&src=typd
 	patrons lack of bus etiquitte
-	enjoy the ride
+	x enjoy the ride
 
 14) bustimesunreliable - https://www.reddit.com/r/sydney/comments/avnyhv/seriously_starting_leaving_6_minutes_early/
 	unreliable bus arrival - buses late or early
-	wait for bus
+	x wait for bus
 
 15) busdriveracel - https://www.reddit.com/r/sydney/comments/axqe1o/til_peak_hour_is_technically_illegal/
 	unsafe bus driving
-	enjoy the ride
+	x enjoy the ride
 
 16) tvl_appstore_buggpsincorrect - https://itunes.apple.com/au/app/tripview-lite/id312389512?mt=8
 	tripview app showing unupdated bus locations, may be bus issue
-	check tripview for bus times
+	x check tripview for bus times
 
 17) tv_google_norealtimedata1 & 2 - https://play.google.com/store/apps/details?id=com.grofsoft.tripview&hl=en
 	bus not showing up despite app information
-	check tripview for bus times
+	x check tripview for bus times
 
 18) tv_google_norealtimedata2 - https://play.google.com/store/apps/details?id=com.grofsoft.tripview&hl=en
 	cannot use to find a route from an origin point to destination point on a map, must use bus stops as origin and destination points
-	check tripview for bus times
+	x check tripview for bus times
+
+19) outofdatetimetable2 - https://www.facebook.com/pg/NSWPublicTransport/posts/?ref=page_internal
+	x wait for bus

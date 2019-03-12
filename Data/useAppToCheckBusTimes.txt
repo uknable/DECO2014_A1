@@ -1,0 +1,23 @@
+3) norealtimedata - https://www.facebook.com/pg/NSWPublicTransport/posts/?ref=pa ge_internal
+	lack of information - real time bus data, gps
+	wait for bus/track bus with tripview
+
+6) wrongtimetable - https://www.facebook.com/pg/NSWPublicTransport/posts/?ref=page_internal
+	misinformation - wrong bus timetables on opal app
+	check opal trip planner
+
+11) ghostbuses1 - https://twitter.com/search?f=tweets&vertical=default&q=%40busesinfo&src=typd
+	bus not showing despite app information
+	check app for bus times, wait for bus
+
+16) tvl_appstore_buggpsincorrect - https://itunes.apple.com/au/app/tripview-lite/id312389512?mt=8
+	tripview app showing unupdated bus locations, may be bus issue
+	check tripview for bus times
+
+17) tv_google_norealtimedata1 & 2 - https://play.google.com/store/apps/details?id=com.grofsoft.tripview&hl=en
+	bus not showing up despite app information
+	check tripview for bus times
+
+18) tv_google_norealtimedata2 - https://play.google.com/store/apps/details?id=com.grofsoft.tripview&hl=en
+	cannot use to find a route from an origin point to destination point on a map, must use bus stops as origin and destination points
+	check tripview for bus times

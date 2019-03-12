@@ -1,0 +1,12 @@
+Major painpoints
+	Use opal or Tripview to check bus times
+		There are a lot of issues with the both the Opal and Tripview apps informing the customer that there's bus coming soon but doesn't show up leaving the them to wait for the next bus.
+	Wait for bus
+
+Moderate painpoints
+	enjoy the ride
+
+Minor painpoints
+	go to bus stop
+	hail driver to stop
+	Use Opal machine to add money

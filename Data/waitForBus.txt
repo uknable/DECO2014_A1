@@ -1,0 +1,22 @@
+1) buseslate1 - https://www.facebook.com/TransportForNSW/
+	misinformation - buses cancelled without notice
+	x look at timetable/wait for bus
+
+9) buseslate2 - https://twitter.com/search?f=tweets&vertical=default&q=%40busesinfo&src=typd
+	misinformation - buses not showing up despite tripview information
+	x wait for bus
+
+10) overallbadbuses - https://twitter.com/search?f=tweets&vertical=default&q=%40busesinfo&src=typd
+	buses late and overcrowded, no AC
+	x enjoy the ride, wait for bus
+
+12) buseslate3 - https://twitter.com/search?f=tweets&vertical=default&q=%40busesinfo&src=typd
+	buses late
+	x wait for bus
+
+14) bustimesunreliable - https://www.reddit.com/r/sydney/comments/avnyhv/seriously_starting_leaving_6_minutes_early/
+	unreliable bus arrival - buses late or early
+	x wait for bus
+
+19) outofdatetimetable2 - https://www.facebook.com/pg/NSWPublicTransport/posts/?ref=page_internal
+	x wait for bus

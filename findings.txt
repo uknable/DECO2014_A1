@@ -2,11 +2,28 @@ Major painpoints
 	Use opal or Tripview to check bus times
 		There are a lot of issues with the both the Opal and Tripview apps informing the customer that there's bus coming soon but doesn't show up leaving the them to wait for the next bus.
 	Wait for bus
+		Customers who regularly catch a certain bus route notice that their bus is usually late or even arrive too early despite timetable information. 
+
 
 Moderate painpoints
 	enjoy the ride
+		Some drivers are noted by passengers to be driving inconsiderately by accelerating too quickly and breaking too harshly. The lack of consideration also applies to other customers who don't move down the bus as it's filling up with standing passengers. Driver swaps can occur halfway through a route and keep passengers waiting for a few minutes.
 
 Minor painpoints
 	go to bus stop
+		short notice changes can frustrate customers if they are not informed properly, leaving them to wait for a bus that is scheduled to pickup at another stop.
 	hail driver to stop
+		Some routes do not have sufficient buses during peak hour which forces bus drivers to drive past customers due to their buses being too full
 	Use Opal machine to add money
+		Some major bus stops do not have access to an Opal machine
+	Use Opal add to add money
+		Adding funds to your card in this way is not instant and forces the customer to wait a few minutes until the money is fully processed
+
+Insights
+	The available apps source their information from open data provided by NSW transport and real-time data provided by the GPS signals from individual buses. If a bus does not have their GPS enabled they're unable to feed their position to the app. The app then defaults to the open data timetable information. "Ghost buses" occur when a bus is running either late or early and is not providing their location leaving customers to wait for a bus that is either arriving much later than indicated or has already passed.
+
+	There are some buses that are notorious for being almost never on time. The 370 route running between Leichhardt to Coogee via Newtown received over 500 complaints in 2016. It's reputation has even prompted the creation of a Facebook page called "The Universe Would Cease to Exist if the 370 Bus Arrived on Time" that has over 1300 members.
+
+	The more frequent issues occur at the initial part of the journey where the customer is relying on information provided either by apps, the official website or physical timetables. Customers are most frustrated at lack of information or misinformation as to when their bus is arriving. Conversely, there are very few complaints online about bus drivers arriving at a customer's destination too slowly.
+
+	Customers are able to issue a complaint to Transport NSW by filling in an online form or less formally by posting in official pages on social media. Transport NSW have recently stopped taking complaints via phonelines.
